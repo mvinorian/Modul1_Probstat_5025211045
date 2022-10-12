@@ -422,11 +422,11 @@ hist(X, main = "Histogram Distribusi Normal",
 ![Penyelesaian Soal 6b](https://user-images.githubusercontent.com/54766683/195297780-0bb95530-da20-4cd2-a0c4-f2d8b4cdfa43.png)
 
 
-## **Soal 6c**
+### **Soal 6c**
 
 Nilai Varian (σ²) dari hasil generate random nilai Distribusi Normal.
 
-## **Penyelesaian Soal 6c**
+### **Penyelesaian Soal 6c**
 
 Nilai rataan dari Distribusi Exponensial dapat dicari menggunakan fungsi `mean` dan variannya dengan fungsi `var` pada `rexp()` untuk `n = 100`. Berikut adalah kode dan hasil pengerjaan dari soal 6c menggunakan RStudio.
 

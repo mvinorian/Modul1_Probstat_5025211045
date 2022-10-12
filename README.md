@@ -396,7 +396,10 @@ print(z2_score)
 plot(data, main = "Data Eksperimen Random dengan Distribusi Normal")
 ```
 
-![Penyelesaian Soal 6a](https://user-images.githubusercontent.com/54766683/195126054-40ded5d4-710b-4bd7-a4ff-9b1a1024bfef.png)
+![Penyelesaian Soal 6a](https://user-images.githubusercontent.com/54766683/195306470-59e7a42f-7fff-42f3-8222-514178f159ec.png)
+
+![Penyelesaian Soal 6a](https://user-images.githubusercontent.com/54766683/195306634-c44e2eb6-3b9e-43d3-bd3c-4a6851fab3f5.png)
+
 
 ### **Soal 6b**
 
